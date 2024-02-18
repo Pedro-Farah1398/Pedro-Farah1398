@@ -6,5 +6,5 @@
 - 🔭 Atualmente trabalho com Backend
 - 🌱 Estudando Spring Boot e Kotlin
 - 📫 Email: pedro.farah1398@gmail.com
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Sou violonista, guitarrista e tecladista
 
