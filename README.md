@@ -1,4 +1,4 @@
-### Hi there 👋
+### E aí! Eu sou o Pedro Farah 👋
 
 <!--
 **Pedro-Farah1398/Pedro-Farah1398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
